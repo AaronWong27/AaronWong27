@@ -1,4 +1,4 @@
-<h1>"Hi, I’m Aaron!"</h1>
+<h1>Hi, I’m Aaron!</h1>
 <p>Currently a univeristy student living in Canada!</p>
 <p>I’m aspiring to work in the fields of:</p>
 <ul>
@@ -7,6 +7,8 @@
   <li>Web Development</li>
   <li>Software Engineering</li>
 </ul>
+
+<p>Outside of coding, I enjoy playing video games, being a Koreaboo, and travelling! </p>
 
 ![Model](https://github.com/ArrowTron27/ArrowTron27/blob/main/rapid%20claps.gif)
 <!---
