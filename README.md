@@ -1,5 +1,5 @@
 <h1>"Hi, I’m Aaron!"</h1>
-<p>Currently a univeristy student living in Canada! 🇨🇦</p>
+<p>Currently a univeristy student living in Canada!</p>🇨🇦
 <p>I’m aspiring to work in the fields of:</p>
 <ul>
   <li>Game Programming</li>
