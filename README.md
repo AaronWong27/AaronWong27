@@ -8,7 +8,7 @@
   <li>Software Engineering</li>
 </ul>
 
-<p>Outside of coding, I enjoy playing video games, being a Koreaboo, and travelling! 😂</p>
+<p>Outside of coding, I enjoy playing video games, sports, and travelling! 😂</p>
 
 <p>Have a great day!</p>
 
