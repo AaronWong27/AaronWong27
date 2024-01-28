@@ -2,10 +2,10 @@
 <p>Currently a univeristy student at British Columbia Institute of Technology</p>
 <p>I’m aspiring to work in the fields of:</p>
 <ul>
-  <li>Game Programming</li>
-  <li>Artificial Intelligence</li>
-  <li>Web Development</li>
   <li>Software Development</li>
+  <li>Web Development</li>
+  <li>Artificial Intelligence</li>
+  <li>Game Programming</li>
 </ul>
 
 <p>Outside of coding, I enjoy playing video games, sports, and travelling! 😂</p>
