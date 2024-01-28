@@ -5,7 +5,7 @@
   <li>Game Programming</li>
   <li>Artificial Intelligence</li>
   <li>Web Development</li>
-  <li>Software Engineering</li>
+  <li>Software Development</li>
 </ul>
 
 <p>Outside of coding, I enjoy playing video games, sports, and travelling! 😂</p>
