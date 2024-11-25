@@ -1,6 +1,6 @@
 <h1>Hi, I’m Aaron! 😀</h1>
-<p>Currently a university student at Simon Fraser University. Prev. BCIT</p>
-<p>Right now, I'm interning at Affinity as a Software Developer</p>
+<p>Currently a university student at Simon Fraser University. Prev. BCIT CST</p>
+<p>Right now, I'm interning at Affinity as a Software Developer.</p>
 <p>I’m aspiring to work in the fields of:</p>
 <ul>
   <li>Software Development</li>
