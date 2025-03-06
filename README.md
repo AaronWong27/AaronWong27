@@ -4,7 +4,7 @@
 <p>I’m aspiring to work in the fields of:</p>
 <ul>
   <li>Software Development</li>
-  <li>Web Development</li>
+  <li>DevOps</li>
   <li>Artificial Intelligence</li>
   <li>Game Programming</li>
 </ul>
