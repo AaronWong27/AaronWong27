@@ -10,9 +10,7 @@
 
 <p>Outside of coding, I enjoy playing video games, sports, and travelling! 😂</p>
 
-<p>Have a great day!</p>
-
-![Model](https://github.com/ArrowTron27/ArrowTron27/blob/main/rapid%20claps.gif)
+<p>Cheers!</p>
 <!---
 ArrowTron27/ArrowTron27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
